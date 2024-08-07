@@ -13,4 +13,20 @@ let booleanIsLoggedIn = Boolean(IsLoggedIn)
 
 let someNumber = 51
 let stringNumber = String(someNumber)
-console.log(typeof stringNumber);
+// console.log(typeof stringNumber);
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*3);
+// console.log(8/4);
+// console.log(2**3);
+// console.log(9%4);
+
+let str1 = "Hello "
+let str2 = "Priyank"
+let str3 = str1 + str2;
+console.log(str3);
+
+
+
+
